@@ -1,0 +1,1 @@
+<p>Bienvenue sur la page de test du projet des balances connectés pour la mesure des flux des déchets de l'Université Catholique de Lille</p>
